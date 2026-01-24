@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vills Patel
+# 👋 Hey, I'm Vishal Sohaliya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalsohalia-a177b2277/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vishalsohaliya25@gmail.com)
