@@ -56,6 +56,7 @@ I care about **clean structure, scalability, and maintainable code**.
 
 | Project | What it does |
 |--------|---------------|
+| 🏥 Medicenter (Clinic Management System) | Manages doctors, appointments, patients, staff, and daily clinic operations |
 | 🛍️ VillMart (Local E-Commerce System) | Backend for a local shop/mall with auth, product management, orders, permissions, filtering |
 | 📋 Trello-like Task Manager API | Boards, tasks-CRUD, attachments, scheduling, Authentication-permission |
 | 🚗 Carpool System | Backend APIs for ride sharing logic, Pick up - Drop manage, Fair price & Distance calculation logic |
