@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vishal Sohaliya
+# 👋 Hey, I'm Vishal Sohaliya — Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalsohalia-a177b2277/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vishalsohaliya25@gmail.com)
@@ -9,9 +9,8 @@
 I enjoy working on things that involve:
 
 - 🏗️ System design & architecture  
-- ⚙️ Backend logic & APIs  
-- 🔐 Authentication & permissions  
-- 🧩 Complex real-world workflows  
+- ⚙️ Backend logic & RestAPIs Integration
+- 🧩 Python programming & Django/DRF 
 - 🐞 Debugging things others gave up on  
 
 I care about **clean structure, scalability, and maintainable code**.
@@ -38,13 +37,13 @@ I care about **clean structure, scalability, and maintainable code**.
 - Django REST Framework
 - REST APIs
 - JWT Authentication
-- WebSockets (Django Channels)
 
 **Database**
 - MySQL
 - PostgresSQL
 - MongoDB
-- ORM Optimization
+- SQL
+- ORM
 
 **Other**
 - Git & GitHub
@@ -57,10 +56,10 @@ I care about **clean structure, scalability, and maintainable code**.
 
 | Project | What it does |
 |--------|---------------|
-| 🛒 E-Commerce Backend (VillMart) | Full backend with auth, CRUD, permissions, filtering, file uploads |
-| 📋 Trello-like Task Manager API | Boards, tasks, attachments, scheduling, email reset |
-| 🚗 Carpool System | Backend APIs for ride sharing logic |
-| 🔐 Custom Auth Systems | JWT-based login, role permissions, token flows |
+| 🛍️ VillMart (Local E-Commerce System) | Backend for a local shop/mall with auth, product management, orders, permissions, filtering |
+| 📋 Trello-like Task Manager API | Boards, tasks-CRUD, attachments, scheduling, Authentication-permission |
+| 🚗 Carpool System | Backend APIs for ride sharing logic, Pick up - Drop manage, Fair price & Distance calculation logic |
+| 🔐 SaaS Custom Auth Systems | JWT-based login, role permissions, token flows, single-multiple users account subscription manage |
 | 🌐 Multi-API Backend | Weather, news, crypto APIs in one system |
 
 🧩 I like building **complete backend ecosystems**, not just single endpoints.
@@ -73,7 +72,7 @@ I care about **clean structure, scalability, and maintainable code**.
 - 🏗️ Better API architecture  
 - 🔄 Performance optimization  
 - ☁️ Scalable backend design  
-- 🤖 AI-assisted dev tools  
+- 🤖 AI-assisted dev tools 
 
 ---
 
