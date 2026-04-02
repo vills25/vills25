@@ -68,12 +68,14 @@ I care about **clean structure, scalability, and maintainable code**.
 
 ## 📊 What I'm Exploring Now
 
+- 🧩 Data Structures & Algorithms (DSA)
 - 🧠 Advanced Django patterns  
 - 🏗️ Better API architecture  
 - 🔄 Performance optimization  
 - ☁️ Scalable backend design  
-- 🤖 AI-assisted dev tools 
-
+- 🤖 AI-assisted dev tools
+- 🧮 Data Analysis & Visualization
+- 💻 Data Science & Machine Learning
 ---
 
 ## 🎯 Developer Mindset
